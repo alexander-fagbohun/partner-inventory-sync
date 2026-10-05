@@ -1,0 +1,7 @@
+trip_id,origin,destination,departure,arrival,price_eur
+C101,Berlin,Prague,2026-10-11T07:00,2026-10-11T11:30,24.99
+C102,Berlin,Warsaw,2026-10-11T08:15,2026-10-11T14:00,29.99
+C103,Hamburg,Copenhagen,2026-10-11T09:00,2026-10-11T14:45,abc
+C104,Munich,Vienna,11/10/2026 10:00,2026-10-11T14:00,34.99
+C105,,Zurich,2026-10-11T06:00,2026-10-11T12:00,39.99
+C102,Berlin,Krakow,2026-10-11T10:00,2026-10-11T17:00,27.99
